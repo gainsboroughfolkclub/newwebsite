@@ -1,7 +1,7 @@
 # newwebsite
 website
 
-<html>
+
 <body alink="#000000" vlink="#0000aa" bgcolor="#0094FF" background="/web/20250517150204im_/https://www.angelfire.com/folk/gainsboroughfolk/bg1.jpg" text="#000000">
 
 
@@ -110,4 +110,4 @@ Booking is <strong>essential</strong> as tickets sell out very quickly. <br>Plea
 </p>
 
 </body>
-</html>
+
